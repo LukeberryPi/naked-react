@@ -1,1 +1,1 @@
-naked react
+naked react + vite template for dirty prototyping.
