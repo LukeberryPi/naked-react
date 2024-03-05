@@ -1,8 +1,7 @@
 import { useState } from "react";
-import "./App.css";
 
 function App() {
-  return <>hello</>;
+  return <>naked react</>;
 }
 
 export default App;
